@@ -53,6 +53,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/allan-roberto-78190b172/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Allan%20Roberto-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:allansilva956@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-allansilva956@gmail.com
--blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:allansilva956@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Allan%20Roberto-blue?style=flat-square&logo=gmail"></a>
 </p>
