@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluçōes para problemas utilizando a tecnologia.
 - 🎓 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas pela UCDB em Campo Grande MS.
-- 💼 &nbsp; Trabalhando com desenvolvimento de sistemas na Neex Brasil.
+- 💼 &nbsp; Trabalhando com desenvolvimento de sistemas na Kosmo Studio.
 - 🌱 &nbsp; Aprendendo detalhes das tecnologias que já domino e também novas abordagens que surgem no incrível mundo da programação.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
